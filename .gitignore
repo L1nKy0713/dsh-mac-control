@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+state/
+*.mov
+*.png
+!docs/img/*.png

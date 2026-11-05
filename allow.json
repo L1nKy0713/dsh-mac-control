@@ -1,0 +1,5 @@
+{
+  "allow": [],
+  "deny_always": ["DeepSeek Harness"],
+  "note": "allow 为空表示除 DSH 自身外都允许；填 App 名数组可收紧到白名单"
+}
